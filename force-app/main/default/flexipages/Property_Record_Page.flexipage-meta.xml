@@ -162,10 +162,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-    <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
                     <name>animations</name>
                     <value>true</value>
                 </componentInstanceProperties>
